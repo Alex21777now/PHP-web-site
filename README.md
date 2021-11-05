@@ -1,4 +1,6 @@
 # PHP-web-site
-PHP web site
+
+Простой сайт на PHP, есть форма отправки на почту, "кабинет пользователя" - (вход и выход из него). Использовал  работу
+с cookie и Bootstrap.
 
 ССЫЛКА НА ПРИЛОЖЕНИЕ  http://alex55555winz-php-web-site.22web.org
